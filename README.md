@@ -31,7 +31,7 @@ Im currently working on Roots<br>Im currently learning threejs/react-three-fiber
 [![](https://visitcount.itsvg.in/api?id=Manish-Mannivannan&icon=2&color=1)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Manish Mannivannan) 
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/ManishMannivannan) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

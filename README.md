@@ -16,7 +16,7 @@ Im currently working on Roots<br>Im currently learning threejs/react-three-fiber
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Manish-Mannivannan&theme=blueberry&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Manish-Mannivannan&theme=blueberry&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Manish-Mannivannan&theme=blueberry&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Manish-Mannivannan&theme=blueberry&hide_border=true&include_all_commits=true&count_private=true&layout=compact&cache_seconds=3600)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Manish-Mannivannan&theme=radical&no-frame=true&no-bg=false&margin-w=4)

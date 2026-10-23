@@ -1,7 +1,7 @@
 ## Hi, I'm Manish
 
 # 💫 About Me:
-Im currently working on Roots and Ventiba<br>
+Im currently working on Roots, Arbiter and Ventiba<br>
 Im currently learning threejs/react-three-fiber, 3d design, figma/framer
 
 
